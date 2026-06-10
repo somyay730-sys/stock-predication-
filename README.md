@@ -117,7 +117,7 @@ The project includes a desktop dashboard built using Tkinter. The dashboard cons
 
 # Stock Price Trend
 
-The following graph illustrates the overall movement of TCS stock prices from 2018 to 2025.
+The following graph illustrates the overall movement of TCS stock closing prices from 2018 to 2025.
 
 ![Stock Price Trend](Figure_1.png)
 
