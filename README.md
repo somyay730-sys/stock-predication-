@@ -102,8 +102,7 @@ These represent previous closing prices and help models understand temporal depe
 Insert image:
 
 ```markdown
-<img width="1200" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/369d715a-21b8-40c9-9b2b-495e4d4da923" />
-
+Figure_1.png
 ```
 
 ---
