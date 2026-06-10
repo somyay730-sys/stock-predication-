@@ -1,4 +1,4 @@
-# 📈 Stock Market Prediction using Time Series Analysis
+#  Stock Market Prediction using Time Series Analysis
 
 ## Overview
 
