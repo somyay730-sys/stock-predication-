@@ -209,7 +209,15 @@ Lower values indicate better performance.
 Penalizes larger prediction errors more heavily.
 
 Lower RMSE values indicate superior model performance.
+### Result
+Random Forest
+MAE : 298.7039672270276
+RMSE: 388.688755024486
 
+ARIMA
+MAE : 514.7121289536742
+RMSE: 602.0709505749367
+![evalutaion]()
 ---
 
 # Key Findings
